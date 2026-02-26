@@ -193,6 +193,4 @@ git push origin fix/empty-task-validation
 # Fusion dans main
 ```
 
-### Pourquoi le préfixe `fix` ?
 
-Parce qu'il s'agit d'une **correction de bug**, pas d'une nouvelle fonctionnalité. La convention [Conventional Commits](https://www.conventionalcommits.org/) distingue `feat` (feature) et `fix` (correctif).
